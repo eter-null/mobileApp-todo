@@ -1,16 +1,5 @@
-# a1_2120016
+# Assignment 1 Screenshots
+<img src="screencaps/1709416429513.jpg" alt="site screenshot">
+<img src="screencaps/1709416429522.jpg" alt="site screenshot">
+<img src="screencaps/1709416429534.jpg" alt="site screenshot">
 
-UI development Assignment
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
